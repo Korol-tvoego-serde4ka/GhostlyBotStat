@@ -1,6 +1,6 @@
 # GhostlyBot Stats
 
-Простенькая программа на Python которая поможет прочитать файлы статистики для [GhostlyBot](https://github.com/WheatleyHDD/GhostlyBot)
+Простенькая программа на Python которая поможет прочитать файлы статистики для [GhostlyBot](https://github.com/Korol-tvoego-serde4ka/GhostlyBot)
 
 ## Что необходимо?
 
