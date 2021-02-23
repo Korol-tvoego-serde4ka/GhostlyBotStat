@@ -1,4 +1,4 @@
-# GhostlyBot Stats
+# ToxinBot Stats
 
 Простенькая программа на Python которая поможет прочитать файлы статистики для [GhostlyBot](https://github.com/Korol-tvoego-serde4ka/GhostlyBot)
 
